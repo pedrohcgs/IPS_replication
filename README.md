@@ -1,8 +1,5 @@
 # Covariate Distribution Balance via Propensity Scores: <br> Replication files for Sant'Anna, Song and Xu (2021)
 
-
-# Kaplan-Meier Distribution Regression: <br> Replication files for Delgado, Garcia-Suaza and Sant'Anna (2021)
-
 Contain codes and data for application and Monte Carlo simulations in  Sant'Anna, Song and Xu (2021), "Covariate Distribution Balance via Propensity Scores"
 
 ## Empirical Aplication
