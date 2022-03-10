@@ -1,6 +1,6 @@
-# Covariate Distribution Balance via Propensity Scores: <br> Replication files for Sant'Anna, Song and Xu (2021)
+# Covariate Distribution Balance via Propensity Scores: <br> Replication files for Sant'Anna, Song and Xu (2022)
 
-Contain codes and data for application and Monte Carlo simulations in  Sant'Anna, Song and Xu (2021), "Covariate Distribution Balance via Propensity Scores"
+Contain codes and data for application and Monte Carlo simulations in  Sant'Anna, Song and Xu (2022), "Covariate Distribution Balance via Propensity Scores", Journal of Applied Econometrics (forthcoming).
 
 ## Empirical Aplication
 Our empirical application builds on [Benjamin (2003)](https://www.sciencedirect.com/science/article/abs/pii/S0047272701001670), [Abadie (2003)](https://www.sciencedirect.com/science/article/abs/pii/S0304407602002014), [Chernozhukov and Hansen (2004)](https://www.jstor.org/stable/3211794). We assess the causal effect of 401(k) eligibility and participation on different measures of wealth. We use 1991  Survey of Income and Program Participation (SIPP) data, exactly as in [Benjamin (2003)](https://www.sciencedirect.com/science/article/abs/pii/S0047272701001670), and [Chernozhukov and Hansen (2004)](https://www.jstor.org/stable/3211794). The folder `Application/401/data` contains the data in `Stata` and `R` format.
